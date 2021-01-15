@@ -1,0 +1,6 @@
+/vendor
+/.idea
+ddsbe2.json
+ddsbe2.yaml
+.env
+.phpunit.result.cache
